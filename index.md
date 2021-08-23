@@ -227,6 +227,10 @@ Edit the text to match who can attend the workshop. For instance:
     <strong>Who can attend?:</strong>
     This workshop is open to members of the NYU community who have access to Bobst Library.
 </p>
+<p>
+    <strong>Registration:</strong>
+    You must register your attendance to this workshop here: <a href="https://nyu.libcal.com/event/8208169">nyu.libcal.com/event/8208169</a>
+</p>
 
 
 <hr/>
